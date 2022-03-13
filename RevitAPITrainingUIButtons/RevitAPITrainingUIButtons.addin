@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPITrainingUIButtons.dll</Assembly>
+		<AddInId>FFA13096-D447-4AD6-8623-DAAE2B619B59</AddInId>
+		
+		<FullClassName>RevitAPITrainingUIButtons.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>5.1 Кнопки</Text>
+	</AddIn>
+</RevitAddIns>
